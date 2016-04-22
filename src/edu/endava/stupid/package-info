@@ -1,0 +1,14 @@
+
+What makes code STUPID?
+
+    Singleton
+    
+    Tight coupling
+    
+    Untestability
+    
+    Premature Optimization
+    
+    Indescriptive Naming
+    
+    Duplication
